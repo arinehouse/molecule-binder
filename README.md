@@ -1,6 +1,12 @@
-# molecule-binder
+# Protein Structure Builder
 
-molecule-binder contains a Unity project that creates the very primitive skeleton for Protein Structure Builder.
+## A project of the Dali Lab at Dartmouth College
+
+### Currently, we are working with:
+
+#### molecule-binder
+
+The molecule-binder contains a Unity project that creates the very primitive skeleton for Protein Structure Builder.
 
 At present, the current golas for molecule-binder are to get two prefabs that look like simple molecules to snap together when the colliders on their atoms collide with each other. Hopeful steps forward include:
 
